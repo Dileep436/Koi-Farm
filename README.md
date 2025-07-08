@@ -9,7 +9,7 @@ A Koi breeding game. Get it [on steam](https://store.steampowered.com/app/151881
 
 ## Translations
 
-The game is available in several languages. Translations can be found in [this repository](https://github.com/jobtalle/KoiTranslations), and new translations can be proposed there; when new translations are made, I will add them to the game.
+The game is available in several languages. Translations can be found in [this repository](https://github.com/R3V01UX/Koi-Farm), and new translations can be proposed there; when new translations are made, I will add them to the game.
 
 ## Contributing
 
